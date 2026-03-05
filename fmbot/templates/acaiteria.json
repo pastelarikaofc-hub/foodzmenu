@@ -1,0 +1,11 @@
+{
+  "businessType": "açaiteria",
+  "mainProduct": "açaí e bowls",
+  "upsells": ["complementos premium", "cremes", "caldas especiais"],
+  "customRules": [
+    "Pergunte o tamanho: 300ml, 500ml ou 700ml",
+    "Ofereça complementos (granola, leite em pó, paçoca, etc)",
+    "Pergunte sobre frutas",
+    "Ofereça caldas e cremes especiais"
+  ]
+}
