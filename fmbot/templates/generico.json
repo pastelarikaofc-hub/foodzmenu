@@ -1,0 +1,10 @@
+{
+  "businessType": "estabelecimento",
+  "mainProduct": "produtos e serviços",
+  "upsells": [],
+  "customRules": [
+    "Seja prestativo e educado",
+    "Priorize direcionar para o site/cardápio",
+    "Só ajude com pedido se o cliente pedir explicitamente"
+  ]
+}
