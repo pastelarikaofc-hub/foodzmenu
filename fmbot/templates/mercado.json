@@ -1,0 +1,11 @@
+{
+  "businessType": "mercado",
+  "mainProduct": "produtos de supermercado",
+  "upsells": [],
+  "customRules": [
+    "Aceite listas de compras",
+    "Confirme item por item se necessário",
+    "Informe sobre produtos em falta",
+    "Sugira substituições quando apropriado"
+  ]
+}
